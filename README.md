@@ -39,14 +39,14 @@ Alongside technology, I work in film as a **filmmaker, writer, director, editor,
 
 ## Selected Projects
 
-| Project | What it is | Links |
-|---|---|---|
-| **MAVOR** | Business operations platform for cleaning services with client, employee, admin, booking, payment, and workflow experiences. | [Case Study](https://charlesyooth.com/technology/mavor) · [Website](https://mavorcleaning.ca) |
-| **TROGON** | Global mobile connectivity platform with mobile and administrative product experiences. | [Case Study](https://charlesyooth.com/technology/trogon) |
-| **Genesis Love** | Christian dating and relationship platform with speed-dating, invitations, matching, and community features. | [Case Study](https://charlesyooth.com/technology/genesis-love) |
-| **Milele** | Mobile-first social and relationship experience focused on polished, native-style product interactions. | [Case Study](https://charlesyooth.com/technology/milele) · [Website](https://milele.app) |
-| **MyPerson** | Dating application with profile workflows, verification, matching, and intelligent coaching notifications. | [Case Study](https://charlesyooth.com/technology/myperson) |
-| **RomanceTV** | Romance-focused streaming platform with synchronized Date Rooms and shared viewing experiences. | [Case Study](https://charlesyooth.com/technology/romancetv) |
+| Project | What it is | Public Repo | Case Study / Website |
+|---|---|---|---|
+| **MAVOR** | Business operations platform for cleaning services with client, employee, admin, booking, payment, and workflow experiences. | [GitHub](https://github.com/charleeyooth/mavor-platform) | [Case Study](https://charlesyooth.com/technology/mavor) · [Website](https://mavorcleaning.ca) |
+| **TROGON** | Global mobile connectivity platform with mobile and administrative product experiences. | [GitHub](https://github.com/charleeyooth/trogon-platform) | [Case Study](https://charlesyooth.com/technology/trogon) |
+| **Genesis Love** | Christian dating and relationship platform with speed-dating, invitations, matching, and community features. | [GitHub](https://github.com/charleeyooth/genesis-love) | [Case Study](https://charlesyooth.com/technology/genesis-love) |
+| **Milele** | Mobile-first social and relationship experience focused on polished, native-style product interactions. | [GitHub](https://github.com/charleeyooth/milele-app) | [Case Study](https://charlesyooth.com/technology/milele) · [Website](https://milele.app) |
+| **MyPerson** | Dating application with profile workflows, verification, matching, and intelligent coaching notifications. | [GitHub](https://github.com/charleeyooth/myperson-app) | [Case Study](https://charlesyooth.com/technology/myperson) |
+| **RomanceTV** | Romance-focused streaming platform with synchronized Date Rooms and shared viewing experiences. | [GitHub](https://github.com/charleeyooth/romancetv) | [Case Study](https://charlesyooth.com/technology/romancetv) |
 
 ## Film & Creative
 
